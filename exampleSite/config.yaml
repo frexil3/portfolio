@@ -118,9 +118,9 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Freddy."
-    subtitle: "Cyber Security"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    title: "Frederick Pordum."
+    subtitle: "Student"
+    content: "A passionate cyber and business student. 
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -147,7 +147,9 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a student at Mercyhurst University studying Cyber Security with a minor in Business Administration.
+      Im Frederick Pordum, a passionate sophomore student majoring in cybersecurity with a minor in business administration at Mercyhurst University. With a strong 
+      interest in digital defense, ethical hacking, and secure coding pratices, I am on a mission to unravel the complexities of the cyber landscape. 
+      
 
     skills:
       enable: true
@@ -155,6 +157,8 @@ params:
       items:
         - "Python"
         - "SQL"
+        - "HTML"
+        - "Typing"
 
 
   # Experience
