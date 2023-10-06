@@ -120,7 +120,7 @@ params:
     intro: "Hi, my name is"
     title: "Frederick Pordum."
     subtitle: "Student"
-    content: "A passionate cyber and business student. 
+    content: "A passionate cyber and business student
     image: /images/hero.svg
     bottomImage:
       enable: true
